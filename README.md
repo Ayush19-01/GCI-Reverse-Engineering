@@ -90,3 +90,6 @@ We got the value of rsi as 0x7ffffffedf80: "00g61@k00land1514cel!", which is the
 ![alt text](https://github.com/Ayush19-01/GCI-Reverse-Engineering/blob/master/resources/Screenshot%20from%202019-12-22%2018-45-53.png)
 
 ___Thank You for reading___
+
+Acknowledgement
+  GDB documentation
