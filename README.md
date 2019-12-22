@@ -92,4 +92,5 @@ We got the value of rsi as 0x7ffffffedf80: "00g61@k00land1514cel!", which is the
 ___Thank You for reading___
 
 Acknowledgement
+
   GDB documentation
